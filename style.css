@@ -1,0 +1,36 @@
+html
+{
+    background-color:#DFF2FF;
+    font-family: Verdana, Geneva, sans-serif;
+}
+
+h1
+{
+    font-size:18px;
+    text-align:center;
+    color:#007FFF;
+    font-variant: small-caps;
+}
+
+h3
+{
+     background-color:white;
+    text-align:center;
+    border: 1px solid black;
+    padding:15px;
+    color:#048B9A;
+}
+
+.cursus p
+{
+    font-style:oblique;
+    
+}
+
+.coordonees
+{
+    background-color:white;
+    border: 1px solid black;
+    text-align:center;
+    color:#5A5E6B;
+}
